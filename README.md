@@ -1,2 +1,1 @@
-# qrkod
-this should be a repository decription
+merhaba bu kodu kullanmak için data = "" içindeki tırnaklı yere url yi yerleştiriyosun sonra çalıştırıyorsun ve qr çıkıyo :D
